@@ -1,3 +1,3 @@
-#Contest Based Image Retrieval using Deep Learning Technique
+# Contest Based Image Retrieval using Deep Learning Technique
 
-##Table of Contents
+## Table of Contents
